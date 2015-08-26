@@ -18,7 +18,7 @@ Paste this into the "Token" portion of the settings (Cell B2)
 
 If you need to fill in proxy information, you may do so as well.
 
-Once the draft has started, go to the results tab and press "Poll ESPN". You should see data start filling into rows 2+. 
+Once the draft has started, go to the results tab and press "Poll ESPN". You should see data start filling into rows 2+. You have to press the button everytime you want to see updates. Again, proof of concept, so you should be able to put this on a timer.
 
 ## FAQ
 
